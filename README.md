@@ -1,4 +1,6 @@
-# AndroidExercises-ToastyKrabstix
+# AndroidExercises-ToastyKrabstix 68/60
+
+
   **CourseAdviserApp** (https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-ToastyKrabstix)
 1. **Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-ToastyKrabstix)
 2. **Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-ToastyKrabstix)
@@ -22,7 +24,7 @@
 20. **ViewPager with Text-to-Speech Demo** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-ToastyKrabstix)
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-ToastyKrabstix)
 22. **SQLiteDatabase** (https://classroom.github.com/assignment-invitations/6325632ed2323494d1b359be5399558f)
-23. **Mini-database with Text file** (https://classroom.github.com/assignment-invitations/6984288563af23b78a4d9f6d35be95d1)
+23. **Mini-database with Text file** 
 24. **Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-ToastyKrabstix)
 25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-ToastyKrabstix)
 26. **Grocery App** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-ToastyKrabstix)
