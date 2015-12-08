@@ -1,5 +1,7 @@
 # AndroidExercises-ToastyKrabstix (70/102)
 
+NOTE: for links with BCA, the BCA has portions of said app (Example, Splash Screen, Play video and Play Music are found at the beginning of the BCA app as a Video Splash Screen with separate music etc etc.)
+
 
   **CourseAdviserApp** (https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-ToastyKrabstix)
   
