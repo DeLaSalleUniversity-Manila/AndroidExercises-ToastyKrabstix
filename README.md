@@ -1,4 +1,4 @@
-# AndroidExercises-ToastyKrabstix 68/60
+# AndroidExercises-ToastyKrabstix (70/102)
 
 
   **CourseAdviserApp** (https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-ToastyKrabstix)
@@ -45,7 +45,7 @@
 
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-ToastyKrabstix)
 
-22. **SQLiteDatabase** (https://classroom.github.com/assignment-invitations/6325632ed2323494d1b359be5399558f)
+22. **SQLiteDatabase** 
 
 23. **Mini-database with Text file** 
 
@@ -65,7 +65,7 @@
 
 31. **OpenCV 3.0 Mixed-Signal Processing**  
 
-32. **OpenCV 3.0 Face Detection Sample** 
+32. **OpenCV 3.0 Face Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-ToastyKrabstix)
 
 33. **OpenCV 3.0 Image Manipulations** (https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-ToastyKrabstix)
 
@@ -115,7 +115,7 @@
 
 56. **Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-ToastyKrabstix)
 
-57. **Face Detection in OpenCV with Gradle Experimental Plugin** 
+57. **Face Detection in OpenCV with Gradle Experimental Plugin** (https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-ToastyKrabstix)
 
 58. **Canny Edge OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/cannyedgeopencvwithandroidexperimentalgradle-ToastyKrabstix)
 
@@ -139,7 +139,7 @@
 
 68. **Optical Flow** 
 
-69. **ORB Flow** 
+69. **ORB Flow** (https://github.com/DeLaSalleUniversity-Manila/orbflow-ToastyKrabstix)
 
 70. **FAST Flow** (https://github.com/DeLaSalleUniversity-Manila/fastflow-ToastyKrabstix)
 
